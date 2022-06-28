@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/react-beach-resort/static/css/main.bc5d8fdb.chunk.css",
+    "main.js": "/react-beach-resort/static/js/main.5e389f01.chunk.js",
+    "main.js.map": "/react-beach-resort/static/js/main.5e389f01.chunk.js.map",
+    "runtime-main.js": "/react-beach-resort/static/js/runtime-main.2a50584f.js",
+    "runtime-main.js.map": "/react-beach-resort/static/js/runtime-main.2a50584f.js.map",
+    "static/js/2.188833ae.chunk.js": "/react-beach-resort/static/js/2.188833ae.chunk.js",
+    "static/js/2.188833ae.chunk.js.map": "/react-beach-resort/static/js/2.188833ae.chunk.js.map",
+    "static/js/3.d41b8315.chunk.js": "/react-beach-resort/static/js/3.d41b8315.chunk.js",
+    "static/js/3.d41b8315.chunk.js.map": "/react-beach-resort/static/js/3.d41b8315.chunk.js.map",
+    "index.html": "/react-beach-resort/index.html",
+    "static/css/main.bc5d8fdb.chunk.css.map": "/react-beach-resort/static/css/main.bc5d8fdb.chunk.css.map",
+    "static/js/2.188833ae.chunk.js.LICENSE.txt": "/react-beach-resort/static/js/2.188833ae.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-beach-resort/static/media/room-2.48c60181.jpeg",
+    "static/media/details-1.c4851740.jpeg": "/react-beach-resort/static/media/details-1.c4851740.jpeg",
+    "static/media/details-2.dc89255d.jpeg": "/react-beach-resort/static/media/details-2.dc89255d.jpeg",
+    "static/media/details-3.f525a3c8.jpeg": "/react-beach-resort/static/media/details-3.f525a3c8.jpeg",
+    "static/media/details-4.f2053654.jpeg": "/react-beach-resort/static/media/details-4.f2053654.jpeg",
+    "static/media/loading-arrow.dd29210f.gif": "/react-beach-resort/static/media/loading-arrow.dd29210f.gif",
+    "static/media/logo.54a9b9cb.svg": "/react-beach-resort/static/media/logo.54a9b9cb.svg",
+    "static/media/room-1.05b90599.jpeg": "/react-beach-resort/static/media/room-1.05b90599.jpeg",
+    "static/media/room-10.681615dc.jpeg": "/react-beach-resort/static/media/room-10.681615dc.jpeg",
+    "static/media/room-11.1605f19e.jpeg": "/react-beach-resort/static/media/room-11.1605f19e.jpeg",
+    "static/media/room-12.7dee4920.jpeg": "/react-beach-resort/static/media/room-12.7dee4920.jpeg",
+    "static/media/room-3.92fc5b83.jpeg": "/react-beach-resort/static/media/room-3.92fc5b83.jpeg",
+    "static/media/room-4.10d2e64a.jpeg": "/react-beach-resort/static/media/room-4.10d2e64a.jpeg",
+    "static/media/room-5.a7c5e078.jpeg": "/react-beach-resort/static/media/room-5.a7c5e078.jpeg",
+    "static/media/room-6.3697aea3.jpeg": "/react-beach-resort/static/media/room-6.3697aea3.jpeg",
+    "static/media/room-7.d2c011f0.jpeg": "/react-beach-resort/static/media/room-7.d2c011f0.jpeg",
+    "static/media/room-8.5b658df9.jpeg": "/react-beach-resort/static/media/room-8.5b658df9.jpeg",
+    "static/media/room-9.18aabe9f.jpeg": "/react-beach-resort/static/media/room-9.18aabe9f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a50584f.js",
+    "static/js/2.188833ae.chunk.js",
+    "static/css/main.bc5d8fdb.chunk.css",
+    "static/js/main.5e389f01.chunk.js"
+  ]
+}
